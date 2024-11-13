@@ -1,0 +1,8 @@
+.taskItem { 
+    text-align: left;
+}
+
+.completed { 
+    text-decoration: line-through; /*tachar tareas completadas*/
+    color: #aaa; 
+}
